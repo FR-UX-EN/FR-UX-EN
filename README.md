@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @FR-UX-EN
-- 👀 I’m interested in Frontend, UIUX, and Entrepreneurship
-- 🌱 I’m currently learning Frontend web-dev, UIUX, and how to start a business
-
+- 👋 Hi, I’m Daniel Lee
+- 👀 I’m interested in Frontend dev, UI/UX, and Entrepreneurship
 
 <!---
 FR-UX-EN/FR-UX-EN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
